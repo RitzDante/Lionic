@@ -1,4 +1,4 @@
 # Lionic web design
-[View website](index.html)
+[View website](https://ritzdante.github.io/Lionic/)
 
 ![Lionic](sreenshots/lionic-sreenshots.png)
